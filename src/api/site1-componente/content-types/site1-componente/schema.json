@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "site1_componentes",
+  "info": {
+    "singularName": "site1-componente",
+    "pluralName": "site1-componentes",
+    "displayName": "Site1_Componente"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Conteudo": {
+      "type": "string"
+    }
+  }
+}
